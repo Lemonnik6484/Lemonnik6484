@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chakra+Petch&duration=3000&pause=1000&color=33FF4E&vCenter=true&width=435&lines=Amateur+Coder;Beavers; Actively+working+on+Java;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chakra+Petch&duration=3000&pause=1000&color=33FF4E&vCenter=true&width=435&lines=Amateur+Coder;JAVA+My+Beloved;Worked+with+7%2B+languages)](https://git.io/typing-svg)
 
 [![Skill Icons](https://skillicons.dev/icons?i=html,css,js,cpp,cs,python,java,lua)](https://skillicons.dev)<br>
 [![Skill Icons](https://skillicons.dev/icons?i=arduino,replit,sublime,unity,vscode,idea,gcp,bots)](https://skillicons.dev)
